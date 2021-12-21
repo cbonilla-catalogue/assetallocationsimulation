@@ -260,7 +260,7 @@ def updateTable(value):
         "Entity ID"
     ]  # .dropna(subset=['Holding Account Number'])
 
-    url = "https://insigneo.addepar.com/api/v1/portfolio/views/287490/results"
+    url = "https://..."
     querystring = {
         "portfolio_type": "ENTITY",
         "portfolio_id": value,
@@ -271,8 +271,8 @@ def updateTable(value):
 
     headers = {
         "Accept": "application/vnd.api+json",
-        "Addepar-Firm": "286",
-        "Authorization": "Basic MmYyNDEyMmItNjhmOS00ZjgzLWEwMTgtMGJlYzI3OWFhM2QwOmJhY0ZXb2NzSzJpS3ZGTXYzNjF2MGhpMWpGdUNTa1pnTUl6eXhSSFQ=",
+        "Addepar-Firm": "...",
+        "Authorization": "Basic ....",
     }
     response = requests.request("GET", url, headers=headers, params=querystring)
     urlData = response.content
