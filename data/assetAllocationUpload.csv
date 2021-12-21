@@ -1,0 +1,37 @@
+Risk Asset Class,Arithmetic Mean,Standard Deviation,Proxy Index,Asset Class,Sub Asset Class
+Alternatives - Global Macro,3.568054674,4.343671951,JPM Global Macro C (acc) USD,Alternative Investments,Other Alternative Strategies
+Alternative - Liquid Alts,2.853647321,5.949612322,Wilshire Liq Alt Multi-strategy TR USD,Alternative Investments,Liquid Alts
+Alternatives - Hedge Funds,0.912881403,5.761292214,ASI HFRI-I Liquid Alternatives UCITS Q,Alternative Investments,Hedge Funds
+Cash,0.533824625,0.533824625,ICE BofA 3M US Trsy Note TR USD,Cash & Cash Equivalent,Cash & Cash Equivalent
+Commodities - Commodities ex Precious Metals,0.101987642,17.29537307,Bloomberg Commodity ex Pre Metals TR USD,Alternative Investments,Commodity Futures
+Commodities - Gold,7.258258517,20.23324532,S&P GSCI Gold TR,Alternative Investments,Gold
+Equity - Asia ex Japan (USD),6.993417048,24.09970291,MSCI AC Asia Ex Japan GR USD,Equity,Asia Ex-Japan
+Equity - EU (USD),7.078592637,18.90429423,MSCI EU GR USD,Equity,European Equities
+Equity - Japan (USD),4.957567318,20.06701624,MSCI Japan 100% hedged to USD NR USD,Equity,Japan Equities
+Equity - China A (USD),4.795087517,19.48494111,MSCI China A Inclusion 100% Heg USD,Equity,China A (USD)
+Equity - US Large Cap,5.969689309,15.43277841,S&P 500 TR (1989),Equity,Large Cap
+Equity - US Large Cap Growth,6.190868289,17.72031067,Russell Top 200 Growth TR USD,Equity,Large Cap Growth
+Equity - US Large Cap Value,5.538753004,15.55924239,Russell Top 200 Value TR USD,Equity,Large Cap Value
+Equity - US Small Cap,7.728099658,23.57298677,Russell Small Cap Complete Growth TR USD,Equity,Small Cap
+Equity - Global ex US (USD),6.60316342,18.02698906,MSCI ACWI Ex USA NR USD,Equity,Global ex US (USD)
+Equity - EM (USD),6.178832943,11.93886363,Morningstar MSCI Emerging Markets,Equity,ERROR
+Fixed Income -Mortgage-Backed Assets,1.490976132,6.143839944,BBgBarc US MBS TR USD,Fixed Income,Mortgage Backed Assets
+Fixed Income - US High Yield,4.663994615,8.73213902,BBgBarc US Corporate High Yield TR USD,Fixed Income,High Yield
+Fixed Income - US Investment Grade,3.624768171,5.893602495,BBgBarc 144A Investment Grade TR USD,Fixed Income,Investment Grade
+Fixed Income - EM (USD),4.971192748,9.989008625,JPM EMBI Global Core TR USD,Fixed Income,Emerging Market
+Fixed Income - US Treasury,0.967836076,5.038388307,BBgBarc US Government TR USD,Fixed Income,US Treasury
+Fixed Income - EUR Treasury,5.46872458,8.486305219,BBgBarc EM Pan Euro Aggregate TR EUR,Fixed Income,International Developed
+Fixed Income - EM Local CCY (USD Hedge),9.083244417,26.10268123,BBgBarc EM Local Issue TR USD,Fixed Income,EM Local CCY (USD Hedge)
+Fixed Income - GBP Gilts,6.263079104,7.190335866,BBgBarc Gilts Float Adjusted TR GBP,Fixed Income,GBP Gilts
+Finxed Income - CAD,5.452884425,4.069207418,BBgBarc Canada Aggregate TR CAD,Fixed Income,CAD
+Fixed Income - AUD,7.915993224,5.14915439,BBgBarc Global Australia TR AUD,Fixed Income,AUD
+Fixed Income - JPY,1.724620996,1.961468465,BBgBarc Asian Pac Japanese Yen TR JPY,Fixed Income,JPY
+Fixed Income - MUST DELETE,3.810679293,5.921482854,ChinaBond Treasury-Bond Aggregate TR CNY,Fixed Income,Deprecated
+Equity - Preferred Stock,4.020758434,16.00822332,S&P Preferred Stock TR USD,Equity,Preferred Stock
+Equity - REIT,5.739607584,18.93116296,FTSE EPRA Nareit Developed TR USD,Equity,REIT
+Fixed Income - Aggregate,2.988101764,5.434389052,Bloomberg Global Aggregate TR USD,Fixed Income,Aggregate
+Fixed Income - Short Duration,0.956598853,1.351666046,ICE BofA 1-3Y US Brd Mkt TR USD,Fixed Income,Short Duration
+Fixed Income - Sovereign & Agency,2.228796669,3.767281373,Bloomberg US Agg Govt Reltd TR USD,Fixed Income,Sovereign & Agency
+Fixed Income - Municipals,2.620018432,6.7122046,Bloomberg Municipal TR USD,Fixed Income,Municipals
+Equity - Emerging Markets,7.442253651,23.60273486,MSCI EM GDP NR USD,Equity,Emerging Market
+Fixed Income - China Treasury,2.165611578,3.76604706,Bloomberg China Aggregate TR USD,Fixed Income,China Treasury

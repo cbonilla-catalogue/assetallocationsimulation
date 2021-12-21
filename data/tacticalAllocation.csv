@@ -1,0 +1,77 @@
+Risk Objective,Strategy,Date,Asset Class,Sub Asset Class,Allocation
+Free Form,Tactical,10/1/2021,Alternative Investments,Other Alternative Strategies,2.7777778
+Free Form,Tactical,10/1/2021,Alternative Investments,Liquid Alts,2.7777778
+Free Form,Tactical,10/1/2021,Alternative Investments,Hedge Funds,2.7777778
+Free Form,Tactical,10/1/2021,Cash & Cash Equivalent,Cash & Cash Equivalent,2.7777778
+Free Form,Tactical,10/1/2021,Alternative Investments,Commodity Futures,2.7777778
+Free Form,Tactical,10/1/2021,Alternative Investments,Gold,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Asia Ex-Japan,2.7777778
+Free Form,Tactical,10/1/2021,Equity,European Equities,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Japan Equities,2.7777778
+Free Form,Tactical,10/1/2021,Equity,China A (USD),2.7777778
+Free Form,Tactical,10/1/2021,Equity,Large Cap,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Large Cap Growth,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Large Cap Value,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Small Cap,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Global ex US (USD),2.7777778
+Free Form,Tactical,10/1/2021,Equity,ERROR,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Mortgage Backed Assets,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,High Yield,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Investment Grade,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Emerging Market,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,US Treasury,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,International Developed,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,EM Local CCY (USD Hedge),2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,GBP Gilts,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,CAD,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,AUD,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,JPY,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Deprecated,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Preferred Stock,2.7777778
+Free Form,Tactical,10/1/2021,Equity,REIT,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Aggregate,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Short Duration,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Sovereign & Agency,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,Municipals,2.7777778
+Free Form,Tactical,10/1/2021,Equity,Emerging Market,2.7777778
+Free Form,Tactical,10/1/2021,Fixed Income,China Treasury,2.7777778
+Aggressive,Tactical,10/1/2021,Alternative Investments,Commodity Futures,4.5
+Aggressive,Tactical,10/1/2021,Cash & Cash Equivalent,Cash & Cash Equivalent,0.66
+Aggressive,Tactical,10/1/2021,Equity,European Equities,12.76
+Aggressive,Tactical,10/1/2021,Equity,Japan Equities,6.4
+Aggressive,Tactical,10/1/2021,Equity,Large Cap,44.94
+Aggressive,Tactical,10/1/2021,Equity,Emerging Market,6.8
+Aggressive,Tactical,10/1/2021,Equity,Asia Ex-Japan,13.2
+Aggressive,Tactical,10/1/2021,Fixed Income,Emerging Market,4.7
+Aggressive,Tactical,10/1/2021,Fixed Income,High Yield,6.04
+Conservative,Tactical,10/1/2021,Cash & Cash Equivalent,Cash & Cash Equivalent,3
+Conservative,Tactical,10/1/2021,Equity,European Equities,3
+Conservative,Tactical,10/1/2021,Equity,Large Cap,10
+Conservative,Tactical,10/1/2021,Fixed Income,China Treasury,3
+Conservative,Tactical,10/1/2021,Fixed Income,Sovereign & Agency,40
+Conservative,Tactical,10/1/2021,Fixed Income,Emerging Market,5
+Conservative,Tactical,10/1/2021,Fixed Income,Investment Grade,26
+Conservative,Tactical,10/1/2021,Fixed Income,High Yield,10
+Conservative Plus,Tactical,10/1/2021,Alternative Investments,Gold,3
+Conservative Plus,Tactical,10/1/2021,Cash & Cash Equivalent,Cash & Cash Equivalent,4.04
+Conservative Plus,Tactical,10/1/2021,Equity,European Equities,6.76
+Conservative Plus,Tactical,10/1/2021,Equity,Japan Equities,3.8
+Conservative Plus,Tactical,10/1/2021,Equity,Large Cap,25.4
+Conservative Plus,Tactical,10/1/2021,Equity,Emerging Market,7
+Conservative Plus,Tactical,10/1/2021,Fixed Income,China Treasury,4
+Conservative Plus,Tactical,10/1/2021,Fixed Income,Sovereign & Agency,15
+Conservative Plus,Tactical,10/1/2021,Fixed Income,Emerging Market,5
+Conservative Plus,Tactical,10/1/2021,Fixed Income,Investment Grade,17.25
+Conservative Plus,Tactical,10/1/2021,Fixed Income,High Yield,8.75
+Moderate,Tactical,10/1/2021,Alternative Investments,Gold,5
+Moderate,Tactical,10/1/2021,Alternative Investments,Other Alternative Strategies,2
+Moderate,Tactical,10/1/2021,Cash & Cash Equivalent,Cash & Cash Equivalent,3.5
+Moderate,Tactical,10/1/2021,Equity,European Equities,9.3
+Moderate,Tactical,10/1/2021,Equity,Japan Equities,5.25
+Moderate,Tactical,10/1/2021,Equity,Large Cap,34.45
+Moderate,Tactical,10/1/2021,Equity,Emerging Market,11
+Moderate,Tactical,10/1/2021,Fixed Income,China Treasury,4
+Moderate,Tactical,10/1/2021,Fixed Income,Sovereign & Agency,10
+Moderate,Tactical,10/1/2021,Fixed Income,Emerging Market,5
+Moderate,Tactical,10/1/2021,Fixed Income,Investment Grade,4.5
+Moderate,Tactical,10/1/2021,Fixed Income,High Yield,6

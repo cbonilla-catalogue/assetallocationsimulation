@@ -1,0 +1,17 @@
+Risk Objective,Asset Class,Strategic Allocation
+Conservative,Equities,0% - 20%
+Conservative,Fixed Income,80% - 100%
+Conservative,Cash & Cash Equivalent,0 - 20%
+Conservative,Alternative Investments,0%
+Conservative Plus,Equities,28% - 53%
+Conservative Plus,Fixed Income,45% - 75%
+Conservative Plus,Cash & Cash Equivalent,2% - 10%
+Conservative Plus,Alternative Investments,0% - 5%
+Moderate,Equities,40% - 75%
+Moderate,Fixed Income,25% - 45%
+Moderate,Cash & Cash Equivalent,0% - 10%
+Moderate,Alternative Investments,0% - 15%
+Aggressive,Equities,60% - 100%
+Aggressive,Fixed Income,0% - 20%
+Aggressive,Cash & Cash Equivalent,0% - 2%
+Aggressive,Alternative Investments,0% - 15%

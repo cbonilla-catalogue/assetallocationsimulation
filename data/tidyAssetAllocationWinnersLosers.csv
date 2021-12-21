@@ -1,0 +1,433 @@
+Risk Asset Class,Proxy Index,SecId,Year,Yearly Return (%)
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2011,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2011,-1.62069
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2011,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2011,0.12125
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2011,-16.17828
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2011,9.6334
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2011,-17.0725
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2011,-11.40251
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2011,-18.49445
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2011,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2011,2.11178
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2011,4.63337
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2011,1.11547
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2011,-3.09374
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2011,-13.70745
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2011,-12.64001
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2011,6.23158
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2011,4.98002
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2011,4.8411
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2011,8.02086
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2011,9.02025
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2011,0.47166
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2011,3.86714
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2011,17.02493
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2011,10.00011
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2011,14.51883
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2011,1.84175
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2011,6.90235
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2011,-1.15869
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2011,-5.81822
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2011,5.64296
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2011,1.73304
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2011,6.66962
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2011,10.70014
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2011,-19.32587
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2011,9.20219
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2012,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2012,3.43498
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2012,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2012,0.09964
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2012,-2.24673
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2012,6.08137
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2012,22.70429
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2012,19.83771
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2012,19.76245
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2012,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2012,16.00349
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2012,15.06441
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2012,17.00879
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2012,17.60928
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2012,16.83027
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2012,13.97134
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2012,2.59273
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2012,15.8126
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2012,12.06705
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2012,18.62475
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2012,2.02137
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2012,17.3654
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2012,3.72113
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2012,2.83144
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2012,3.26556
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2012,5.47517
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2012,1.73004
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2012,2.72353
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2012,18.64407
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2012,28.65046
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2012,4.31869
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2012,1.55208
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2012,4.90309
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2012,6.78003
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2012,21.21704
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2012,5.09742
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2013,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2013,5.45391
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2013,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2013,0.09265
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2013,-5.84542
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2013,-28.65431
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2013,3.3346
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2013,25.61352
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2013,52.98026
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2013,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2013,32.38813
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2013,32.66262
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2013,32.13913
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2013,43.55783
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2013,15.28769
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2013,3.59274
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2013,-1.41439
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2013,7.44493
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2013,-1.12163
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2013,-6.44655
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2013,-2.59693
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2013,2.65846
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2013,15.03453
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2013,-4.10833
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2013,-1.58926
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2013,0.09799
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2013,1.93949
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2013,-2.8574
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2013,-0.17287
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2013,4.38899
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2013,-2.5986
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2013,0.52314
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2013,-2.71275
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2013,-2.55382
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2013,-2.54401
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2013,1.33203
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2014,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2014,0.60769
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2014,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2014,0.03749
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2014,-18.67525
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2014,-1.74833
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2014,5.11254
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2014,-6.68329
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2014,8.50255
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2014,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2014,13.68853
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2014,13.5743
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2014,12.935
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2014,7.78945
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2014,-3.86638
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2014,-1.09633
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2014,6.0817
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2014,2.45305
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2014,5.9157
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2014,7.59909
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2014,4.91663
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2014,6.75488
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2014,6.44736
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2014,14.87339
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2014,9.03258
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2014,11.13798
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2014,4.25766
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2014,10.94029
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2014,14.07305
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2014,15.88925
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2014,0.58614
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2014,0.84386
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2014,6.13757
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2014,9.05119
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2014,-1.33309
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2014,8.04343
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2015,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2015,-3.00551
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2015,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2015,0.07571
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2015,-27.1153
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2015,-10.87585
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2015,-8.90045
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2015,-3.10025
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2015,9.66789
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2015,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2015,1.38383
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2015,8.17791
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2015,-3.41243
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2015,-1.11539
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2015,-5.66213
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2015,-2.62
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2015,1.50895
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2015,-4.46797
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2015,0.47024
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2015,0.8078
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2015,0.85589
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2015,0.78234
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2015,23.91612
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2015,0.45272
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2015,3.65121
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2015,2.52792
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2015,1.08776
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2015,8.17541
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2015,5.46941
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2015,0.05464
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2015,-3.15419
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2015,0.70802
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2015,-0.39349
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2015,3.30117
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2015,-13.65745
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2015,3.94776
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2016,-2.52445
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2016,1.30259
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2016,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2016,0.34387
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2016,11.60735
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2016,7.74572
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2016,5.76164
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2016,0.81658
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2016,-1.22172
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2016,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2016,11.95992
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2016,6.94954
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2016,16.1998
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2016,9.09743
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2016,4.49511
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2016,12.06015
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2016,1.67352
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2016,17.12974
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2016,5.54266
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2016,10.16621
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2016,1.04879
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2016,6.17115
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2016,17.48313
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2016,11.07385
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2016,1.4356
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2016,2.51271
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2016,3.01687
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2016,2.212
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2016,1.93822
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2016,4.9862
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2016,2.08591
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2016,1.31749
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2016,2.72793
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2016,0.24809
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2016,9.86643
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2016,-5.17459
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2017,11.27034
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2017,7.14121
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2017,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2017,0.79885
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2017,0.15655
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2017,12.78733
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2017,42.07941
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2017,26.80821
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2017,21.52499
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2017,
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2017,21.83156
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2017,31.9163
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2017,13.82774
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2017,26.43295
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2017,27.19168
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2017,14.89617
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2017,2.47349
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2017,7.50454
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2017,6.06794
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2017,10.4564
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2017,2.29908
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2017,5.53123
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2017,8.46074
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2017,2.05287
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2017,2.44624
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2017,3.62945
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2017,0.1752
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2017,-1.82694
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2017,9.10735
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2017,11.42003
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2017,7.39495
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2017,0.89621
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2017,4.18233
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2017,5.44838
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2017,38.44151
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2017,6.19297
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2018,1.01196
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2018,-4.93343
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2018,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2018,1.94316
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2018,-12.46097
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2018,-2.8064
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2018,-14.11777
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2018,-15.31419
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2018,-13.60647
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2018,-25.17344
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2018,-4.38435
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2018,-0.51609
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2018,-6.22047
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2018,-5.3942
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2018,-14.19534
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2018,-8.44952
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2018,0.98968
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2018,-2.08238
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2018,-1.09652
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2018,-5.16849
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2018,0.88364
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2018,-2.13731
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2018,-15.52071
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2018,0.39828
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2018,1.28551
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2018,5.21714
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2018,0.93288
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2018,8.87396
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2018,-4.25296
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2018,-4.74138
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2018,-1.19985
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2018,1.65189
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2018,0.27108
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2018,1.28205
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2018,-13.86196
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2018,3.54345
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2019,2.75956
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2019,6.73015
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2019,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2019,2.31372
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2019,5.87925
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2019,18.02613
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2019,18.51528
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2019,23.06249
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2019,21.34243
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2019,38.20788
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2019,31.48642
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2019,36.47946
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2019,26.36127
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2019,31.60834
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2019,21.51132
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2019,13.31423
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2019,6.35206
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2019,14.31935
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2019,12.95784
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2019,16.09157
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2019,6.82722
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2019,7.52307
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2019,-27.70409
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2019,7.61619
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2019,6.90248
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2019,8.15068
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2019,1.64004
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2019,3.94067
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2019,17.64187
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2019,23.0621
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2019,6.83961
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2019,4.07505
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2019,9.01453
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2019,7.53536
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2019,18.18495
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2019,3.35589
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2020,8.46406
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2020,1.10703
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2020,1.86341
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2020,0.74463
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2020,-9.24549
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2020,20.94879
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2020,25.36159
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2020,10.69039
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2020,9.7349
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2020,31.96269
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2020,18.39878
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2020,39.3424
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2020,1.63812
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2020,62.92249
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2020,10.65197
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2020,14.6948
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2020,3.87216
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2020,7.11374
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2020,8.95872
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2020,5.77201
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2020,7.94442
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2020,2.04094
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2020,-27.44507
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2020,9.5137
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2020,8.41552
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2020,4.33194
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2020,-0.79937
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2020,
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2020,7.97123
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2020,-8.18196
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2020,9.19617
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2020,3.25036
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2020,5.9436
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2020,5.2123
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2020,13.22943
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2020,9.76959
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2021Q1,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2021Q1,2.47509
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2021Q1,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2021Q1,0.04817
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2021Q1,10.8099
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2021Q1,-9.80594
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2021Q1,2.75241
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2021Q1,4.71249
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2021Q1,8.70571
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2021Q1,-3.73821
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2021Q1,6.17497
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2021Q1,1.28504
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2021Q1,10.29559
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2021Q1,0.26027
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2021Q1,3.49346
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2021Q1,-1.15653
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2021Q1,-1.10011
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2021Q1,0.84998
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2021Q1,-3.16275
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2021Q1,-5.28106
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2021Q1,-4.14362
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2021Q1,-0.98997
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2021Q1,-15.83248
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2021Q1,-7.89343
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2021Q1,-4.95393
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2021Q1,-4.12578
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2021Q1,-0.38747
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2021Q1,
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2021Q1,0.78075
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2021Q1,6.10938
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2021Q1,-4.46076
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2021Q1,-0.10422
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2021Q1,-2.85583
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2021Q1,-0.35095
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2021Q1,-0.06367
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2021Q1,0.71048
+Alternatives - Global Macro,JPM Global Macro C (acc) USD,F0GBR06GD1,2021Q2,
+Alternative - Liquid Alts,Wilshire Liq Alt Multi-strategy TR USD,F00000UPLF,2021Q2,2.96515
+Alternatives - Hedge Funds,ASI HFRI-I Liquid Alternatives UCITS Q,F000012GR3,2021Q2,
+Cash,ICE BofA 3M US Trsy Note TR USD,XIUSA04CX9,2021Q2,0.01725
+Commodities - Commodities ex Precious Metals,Bloomberg Commodity ex Pre Metals TR USD,F00000QJY3,2021Q2,15.14328
+Commodities - Gold,S&P GSCI Gold TR,FOUSA08P2O,2021Q2,3.15161
+Equity - Asia ex Japan (USD),MSCI AC Asia Ex Japan GR USD,XIUSA04EVO,2021Q2,3.66039
+Equity - EU (USD),MSCI EU GR USD,XIUSA04F99,2021Q2,7.53616
+Equity - Japan (USD),MSCI Japan 100% hedged to USD NR USD,F00000NVMK,2021Q2,0.20882
+Equity - China A (USD),MSCI China A Inclusion 100% Heg USD,F000010N6A,2021Q2,6.94059
+Equity - US Large Cap,S&P 500 TR (1989),FOUSA06IBZ,2021Q2,8.54883
+Equity - US Large Cap Growth,Russell Top 200 Growth TR USD,XIUSA000KV,2021Q2,12.14425
+Equity - US Large Cap Value,Russell Top 200 Value TR USD,XIUSA000KW,2021Q2,4.95322
+Equity - US Small Cap,Russell Small Cap Complete Growth TR USD,XIUSA000P6,2021Q2,8.71738
+Equity - Global ex US (USD),MSCI ACWI Ex USA NR USD,XIUSA04G85,2021Q2,5.47633
+Equity - EM (USD),Morningstar MSCI Emerging Markets,FOUSA07WJK,2021Q2,5.58389
+Fixed Income -Mortgage-Backed Assets,Bloomberg US MBS TR USD,XIUSA000MN,2021Q2,0.33378
+Fixed Income - US High Yield,Bloomberg US Corporate High Yield TR USD,XIUSA000C3,2021Q2,2.74332
+Fixed Income - US Investment Grade,Bloomberg 144A Investment Grade TR USD,FOUSA05Q1Y,2021Q2,2.70253
+Fixed Income - EM (USD),JPM EMBI Global Core TR USD,F00000OMB5,2021Q2,4.48551
+Fixed Income - US Treasury,Bloomberg US Government TR USD,XIUSA000MG,2021Q2,1.70913
+Fixed Income - EUR Treasury,Bloomberg EM Pan Euro Aggregate TR EUR,FOUSA05QHM,2021Q2,0.70097
+Fixed Income - EM Local CCY (USD Hedge),Bloomberg EM Local Issue TR USD,FOUSA05Q64,2021Q2,6.90631
+Fixed Income - GBP Gilts,Bloomberg Gilts Float Adjusted TR GBP,F000011QXV,2021Q2,1.87189
+Finxed Income - CAD,Bloomberg Canada Aggregate TR CAD,F00001492I,2021Q2,1.54255
+Fixed Income - AUD,Bloomberg Global Australia TR AUD,FOUSA08PF0,2021Q2,1.9448
+Fixed Income - JPY,Bloomberg Asian Pac Japanese Yen TR JPY,FOUSA06ROF,2021Q2,0.24861
+Fixed Income - MUST DELETE,ChinaBond Treasury-Bond Aggregate TR CNY,F00000YE2R,2021Q2,
+Equity - Preferred Stock,S&P Preferred Stock TR USD,FOUSA06M12,2021Q2,4.56199
+Equity - REIT,FTSE EPRA Nareit Developed TR USD,FOUSA088P5,2021Q2,9.42142
+Fixed Income - Aggregate,Bloomberg Global Aggregate TR USD,XIUSA000CU,2021Q2,1.31256
+Fixed Income - Short Duration,ICE BofA 1-3Y US Brd Mkt TR USD,F00000UKF7,2021Q2,-0.08029
+Fixed Income - Sovereign & Agency,Bloomberg US Agg Govt Reltd TR USD,FOUSA05QJ3,2021Q2,1.71513
+Fixed Income - Municipals,Bloomberg Municipal TR USD,XIUSA000MO,2021Q2,1.41734
+Equity - Emerging Markets,MSCI EM GDP NR USD,FOUSA07A2L,2021Q2,4.92375
+Fixed Income - China Treasury,Bloomberg China Aggregate TR USD,FOUSA08PEX,2021Q2,2.75426
