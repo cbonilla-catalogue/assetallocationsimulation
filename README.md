@@ -5,8 +5,8 @@ Generate pixel-perfect PDF and web-based reports
 with `ddk.Report` with data fetched or computed
 in a long-running background task.
 
-
-> This application was originally downloaded from {base_url}/Docs/templates/snapshots-generate-pdf-report
+The background task simulates an capital market asset allocation
+performance using a onte carlo simulation.
 
 ## Running this application
 
@@ -16,14 +16,9 @@ pip install -r requirements.txt
 ```
 
 > For better database performance, we've included the `psycopg2` library in
-> `requirements.txt`. If you are having trouble installing this library
-> on your development workstation, we recommend trying out
-> [Dash Enterprise Workspaces](/Docs/workspaces) or skipping the `psycopg2`
-> install. If `psycopg2` isn't installed, `dash-snapshots` will revert to a
-> less performant driver that is suitable for development but not production.
-
+> `requirements.txt`. 
+> 
 2. Install & Run Redis
-
 
  This application uses `celery` to run tasks in a background job queue.
  Celery uses Redis to transfer data between the Dash app and its job queue.
@@ -53,6 +48,3 @@ celery -A index:celery_instance worker --loglevel=INFO --concurrency=2
 > REDIS_URL=redis://127.0.0.1:6379 celery -A index:celery_instance worker --loglevel=INFO --concurrency=2
 
 ## References
-- [Dash Snapshot Engine documentation]({base_url}/Docs/dash-snapshots)
-- [Dash Design Kit documentation]({base_url}/Docs/dash-design-kit)
-- [More sample apps & templates]({base_url}/Docs/templates)
